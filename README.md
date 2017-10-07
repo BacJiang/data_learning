@@ -1,2 +1,2 @@
 # data_learning
-This repository records my study of data.
+This repository records the process of learning data science.
